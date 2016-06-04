@@ -1,0 +1,55 @@
+body {
+    background-color: #555566;
+}
+h1 {
+    padding: 0px;
+    color: white;
+}
+h2 {
+    padding: 0px;
+}
+a:link {
+    color: white;
+    text-decoration: none;
+    border: none;
+}
+a:visited {
+    color: white;
+    text-decoration: none;
+    border: none;
+}
+a:hover {
+    color: white;
+    text-decoration: none;
+    border: none;
+}
+a:active {
+    color: #DDDDDD;
+    text-decoration: none;
+}
+.result {
+    background-color: #9999AA;
+    margin: 2% 10% 2% 10%;
+    padding: 5px 10px 5px 10px;
+}
+#search-form {
+    color: white;
+    padding: 5px 10px 5px 10px;
+    border: 2px solid #ffbb00;
+    -moz-border-radius: 2em;
+    -webkit-border-radius: 2em;
+    border-radius: 2em;
+    background-color: #555566;
+}
+input:focus {
+    color: white;
+}
+#content-wrapper {
+    margin-top: 15%;
+}
+.shift-up {
+    margin-top: 0% !important;
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+}
